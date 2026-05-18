@@ -1,6 +1,6 @@
-from files.grafo import Grafo
-from files.vertex_cover import vertex_cover_aproximado
-from files.interface import exibir_menu, exibir_resultado
+from grafo import Grafo
+from vertex_cover import vertex_cover_aproximado
+from interface import exibir_menu, exibir_resultado
 
 
 def menu():

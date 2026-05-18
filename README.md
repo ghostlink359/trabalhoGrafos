@@ -6,9 +6,9 @@ Este projeto foi desenvolvido para a disciplina de Estruturas, Pesquisar e Orden
 
 ### Integrantes
 
-Patrick Guilherme
-Gabriel da Silva 
-Matheus Nogueira
+- Patrick Guilherme
+- Gabriel da Silva 
+- Matheus Nogueira
 
 ### Funcionalidades
 
@@ -24,6 +24,7 @@ Exibição de:
 
 ### Estrutura do Projeto|
 
+```bash
 TRABALHOGRAFOS/
 │
 ├── exemplos/
@@ -39,6 +40,7 @@ TRABALHOGRAFOS/
 ├── main.py
 ├── README.md
 └── relatorio.pdf
+```
 
 ### Como executar
 Abra o terminal na pasta do projeto
